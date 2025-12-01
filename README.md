@@ -61,7 +61,11 @@ Data transformation
 
 CRM workflow architecture
 
-📂 Featured Projects
+
+
+📂 Completed Projects
+
+
 🔸 AI Lead Qualification Agent
 
 Automates intake, classifies lead intent, responds instantly, and syncs to CRM.
