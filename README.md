@@ -29,6 +29,8 @@ Make.com
 
 Zapier
 
+Monday.com
+
 Airtable automations
 
 Google Sheets automation
