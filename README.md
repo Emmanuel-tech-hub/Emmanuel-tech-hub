@@ -89,6 +89,7 @@ Tech: FB Graph API, n8n, LLMs
 🌍 Connect With Me
 
 LinkedIn: Emmanuel Nyong
+
 Email: reachmoredigital01@gmail.com
 
 WhatsApp: +2250554009382
